@@ -1,5 +1,4 @@
-capsnet1:
-（valid acc 最高）valid acc 
+capsnet1: valid acc
 sample size      5000
 gamma            0.9
 epoch            8
@@ -7,8 +6,9 @@ r                1
 lr               1e-4
 
 
+
 capsnet2：
-（hyperparameter和model1一样，除了r=3）valid acc ?
+（hyperparameter和model1一样，除了r=3）valid acc 0.9812
 
 
 capsnet3：
