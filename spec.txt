@@ -1,0 +1,14 @@
+model1:
+（valid acc 最高）
+sample size      5000
+gamma            0.92
+epoch            8
+r                1
+lr               1e-4
+
+
+model2：
+（hyperparameter和valid一样，除了r=3）
+
+
+
