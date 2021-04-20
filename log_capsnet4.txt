@@ -1,0 +1,103 @@
+initial TRAIN loss: 1.3060   Marginal loss: 1.1192   Reconstruction loss: 373.4872
+Accuracy: 232/1500 0.1547
+Highest saved! New accuracy: 0.1547
+initial VALID loss: 1.3249   Marginal loss: 1.1384   Reconstruction loss: 373.1095
+Accuracy: 74/500 0.1480
+
+Epoch: 0
+Learning rate: 1.00e-04
+VALID loss: 0.0989   Marginal loss: 0.0652   Reconstruction loss: 67.2467
+Accuracy: 472/500 0.9440
+Highest saved! New accuracy: 0.9440
+
+Epoch: 1
+Learning rate: 6.00e-05
+VALID loss: 0.0777   Marginal loss: 0.0465   Reconstruction loss: 62.4770
+Accuracy: 481/500 0.9620
+Highest saved! New accuracy: 0.9620
+
+Epoch: 2
+Learning rate: 3.60e-05
+VALID loss: 0.0739   Marginal loss: 0.0437   Reconstruction loss: 60.3422
+Accuracy: 484/500 0.9680
+Highest saved! New accuracy: 0.9680
+
+Epoch: 3
+Learning rate: 2.16e-05
+VALID loss: 0.0725   Marginal loss: 0.0428   Reconstruction loss: 59.5245
+Accuracy: 483/500 0.9660
+
+Epoch: 4
+Learning rate: 1.30e-05
+VALID loss: 0.0722   Marginal loss: 0.0427   Reconstruction loss: 59.1089
+Accuracy: 484/500 0.9680
+
+Epoch: 5
+Learning rate: 7.78e-06
+VALID loss: 0.0718   Marginal loss: 0.0423   Reconstruction loss: 58.9235
+Accuracy: 484/500 0.9680
+
+Epoch: 6
+Learning rate: 4.67e-06
+VALID loss: 0.0731   Marginal loss: 0.0437   Reconstruction loss: 58.8155
+Accuracy: 484/500 0.9680
+
+Epoch: 7
+Learning rate: 2.80e-06
+VALID loss: 0.0727   Marginal loss: 0.0433   Reconstruction loss: 58.7606
+Accuracy: 484/500 0.9680
+
+Epoch: 8
+Learning rate: 1.68e-06
+VALID loss: 0.0733   Marginal loss: 0.0439   Reconstruction loss: 58.7242
+Accuracy: 484/500 0.9680
+
+Epoch: 9
+Learning rate: 1.01e-06
+VALID loss: 0.0733   Marginal loss: 0.0439   Reconstruction loss: 58.7018
+Accuracy: 484/500 0.9680
+
+Epoch: 10
+Learning rate: 6.05e-07
+VALID loss: 0.0735   Marginal loss: 0.0441   Reconstruction loss: 58.6887
+Accuracy: 484/500 0.9680
+
+Epoch: 11
+Learning rate: 3.63e-07
+VALID loss: 0.0735   Marginal loss: 0.0441   Reconstruction loss: 58.6809
+Accuracy: 484/500 0.9680
+
+Epoch: 12
+Learning rate: 2.18e-07
+VALID loss: 0.0735   Marginal loss: 0.0442   Reconstruction loss: 58.6755
+Accuracy: 484/500 0.9680
+
+Epoch: 13
+Learning rate: 1.31e-07
+VALID loss: 0.0736   Marginal loss: 0.0442   Reconstruction loss: 58.6726
+Accuracy: 484/500 0.9680
+
+Epoch: 14
+Learning rate: 7.84e-08
+VALID loss: 0.0736   Marginal loss: 0.0442   Reconstruction loss: 58.6708
+Accuracy: 484/500 0.9680
+
+Epoch: 15
+Learning rate: 4.70e-08
+VALID loss: 0.0736   Marginal loss: 0.0442   Reconstruction loss: 58.6695
+Accuracy: 484/500 0.9680
+
+Epoch: 16
+Learning rate: 2.82e-08
+VALID loss: 0.0736   Marginal loss: 0.0442   Reconstruction loss: 58.6687
+Accuracy: 484/500 0.9680
+
+Epoch: 17
+Learning rate: 1.69e-08
+VALID loss: 0.0736   Marginal loss: 0.0442   Reconstruction loss: 58.6683
+Accuracy: 484/500 0.9680
+
+Epoch: 18
+Learning rate: 1.02e-08
+VALID loss: 0.0736   Marginal loss: 0.0442   Reconstruction loss: 58.6680
+Accuracy: 484/500 0.9680
