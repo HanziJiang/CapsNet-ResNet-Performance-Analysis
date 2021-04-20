@@ -8,11 +8,11 @@ lr               1e-4
 
 
 capsnet2：
-（hyperparameter和model1一样，除了r=3）valid acc 0.9812
+（hyperparameter和model1一样，除了r=3）valid acc 0.9840
 
 
 capsnet3：
-（hyperparameter和model1一样，除了r=3和samplesize=800）valid acc 0.9812
+（hyperparameter和model1一样，除了r=3和samplesize=800）valid acc 0.9688
 
 
 resnet12:
