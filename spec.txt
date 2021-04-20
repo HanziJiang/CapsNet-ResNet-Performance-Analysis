@@ -16,7 +16,7 @@ capsnet3：
 
 
 resnet12:
-对应capsnet1和capsnet2, valid acc ?
+对应capsnet1和capsnet2, valid acc 0.9852
 samplesize 5000
 epoch 1
 
