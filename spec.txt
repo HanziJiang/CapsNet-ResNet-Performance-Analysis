@@ -1,40 +1,30 @@
 capsnet1:
-（valid acc 最高）valid acc 0.9814
+（valid acc 最高）valid acc 
 sample size      5000
-gamma            0.92
+gamma            0.9
 epoch            8
 r                1
 lr               1e-4
 
 
 capsnet2：
-（hyperparameter和model1一样，除了r=3）valid acc 0.9808
+（hyperparameter和model1一样，除了r=3）valid acc ?
 
 
 capsnet3：
-（hyperparameter和model1一样，除了r=3和samplesize=1000）valid acc 
-
-
-capsnet4：
-（hyperparameter和model1一样，除了r=3和samplesize=500）
+（hyperparameter和model1一样，除了r=3和samplesize=800）valid acc 0.9812
 
 
 resnet12:
-对应capsnet1和capsnet2, valid acc 0.9748
+对应capsnet1和capsnet2, valid acc ?
 samplesize 5000
 epoch 1
 
 
 resnet3:
-对应capsnet3, valid acc 0.9800
-samplesize 1000
-epoch 3
-
-
-resnet4:
-对应capsnet4, valid acc 
-samplesize 500
-epoch 3
+对应capsnet3, valid acc  0.9775
+samplesize 800
+epoch 8
 
 
 
