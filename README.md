@@ -7,7 +7,7 @@ We investigate the performance of CapsNet and Residual Neural Network (ResNet) i
 Please follow the instruction below:
 
 __1. Run on Google Colab:__
-  * Download and open [ResNet.ipynb](https://github.com/HanziJiang/CapsNet-ResNet-Performance-Analysis/blob/main/ResNet.ipynb) and [guide_big.ipynb](https://github.com/HanziJiang/CapsNet-ResNet-Performance-Analysis/blob/main/guide_big.ipynb) on your google drive.
+  * Download and open [ResNet.ipynb](https://github.com/HanziJiang/CapsNet-ResNet-Performance-Analysis/blob/main/ResNet.ipynb) and [guide_big.ipynb](https://github.com/HanziJiang/CapsNet-ResNet-Performance-Analysis/blob/main/guide_big.ipynb) on Google Colab.
   * Follow the instructions on the notebook to reproduce the experiments.
   
 
