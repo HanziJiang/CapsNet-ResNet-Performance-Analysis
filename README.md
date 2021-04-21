@@ -1,7 +1,17 @@
 # A Comparative Analysis of CapsNet and ResNet on Rotation Invariance
 #### Group members: Hanzi Jiang, Yuting Shao, Weimin Huang
 ## General Ideas:
-We investigate the performance of CapsNet and Residual Neural Network (ResNet) in the presence of rotations on the QuickDraw dataset. 
+We investigate the performance of CapsNet and Residual Neural Network (ResNet) in the presence of rotations on the [QuickDraw dataset](https://github.com/googlecreativelab/quickdraw-dataset). The models are trained and evaluated on a subset of the QuickDraw datacontaining 5 classes: triangle, square, mushroom, crown, and envelope.
+
+__1. Example of original images in train and validation set:__
+<p align="center">
+  <img  src="https://github.com/HanziJiang/CapsNet-ResNet-Performance-Analysis/blob/main/images/train_example.jpeg">
+</p>
+
+__2. Example of images rotated by 45 degrees in test set:__
+<p align="center">
+  <img  src="https://github.com/HanziJiang/CapsNet-ResNet-Performance-Analysis/blob/main/images/test_with_rotate_example.jpeg">
+</p>
 
 ### Getting Started
 Please follow the instruction below:
@@ -12,12 +22,12 @@ __1. Run on Google Colab:__
   
 
 ## Robustness under Rotational Transformation
-we compute the test accuracy of the two models on the test dataset with rotated images
+we compute the test accuracy of the two models on the test dataset with rotated images.
 
-### Demo
-
-
-### Demo
+#### Test accuracy vs. rotation angle on different training sample sizes.
+<p align="center">
+  <img width="460" height="300" src="https://github.com/HanziJiang/CapsNet-ResNet-Performance-Analysis/blob/main/images/sample_size_acc.png">
+</p>
 
 
 
