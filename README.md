@@ -21,7 +21,7 @@ __1. Run on Google Colab:__
   * Follow the instructions on the notebook to reproduce the experiments.
   
 
-## Robustness under Rotational Transformation
+## Results
 we compute the test accuracy of the two models on the test dataset with rotated images.
 
 #### Test accuracy vs. rotation angle on different training sample sizes.
