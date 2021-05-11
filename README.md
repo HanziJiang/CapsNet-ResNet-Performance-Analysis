@@ -1,9 +1,9 @@
 # A Comparative Analysis of CapsNet and ResNet on Rotation Invariance
 Group members: Hanzi Jiang, Yuting Shao, Weimin Huang.
 
-Our report can be found [here!](https://github.com/HanziJiang/CapsNet-ResNet-Performance-Analysis/blob/main/A%20Comparative%20Analysis%20of%20CapsNet%20and%20ResNet%20on%20Rotation%20Invariance.pdf).
+Our report can be found [here](https://github.com/HanziJiang/CapsNet-ResNet-Performance-Analysis/blob/main/A%20Comparative%20Analysis%20of%20CapsNet%20and%20ResNet%20on%20Rotation%20Invariance.pdf).
 
-## General Idea:
+## General Idea
 We investigate the performance of Capule Network (CapsNet) and Residual Neural Network (ResNet) in the presence of rotations on the [QuickDraw dataset](https://github.com/googlecreativelab/quickdraw-dataset). The models are trained and evaluated on a subset of the QuickDraw datacontaining 5 classes: triangle, square, mushroom, crown, and envelope.
 
 __1. Example of original images in train and validation set:__
@@ -32,16 +32,15 @@ __1. Run on Google Colab:__
   
 
 ## Results
-we compute the test accuracy of the two models on the test dataset with rotated images.
-
 #### Test accuracy vs. rotation angle on different training sample sizes.
 <p align="center">
   <img width="460" height="300" src="https://github.com/HanziJiang/CapsNet-ResNet-Performance-Analysis/blob/main/images/sample_size_acc.png">
 </p>
+For complete results, please see our [report](https://github.com/HanziJiang/CapsNet-ResNet-Performance-Analysis/blob/main/A%20Comparative%20Analysis%20of%20CapsNet%20and%20ResNet%20on%20Rotation%20Invariance.pdf).
 
 
-
-### Acknowledgements
+## Acknowledgements
 * Implementation of the paper [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf) by Sara Sabour, Nicholas Frosst, and Geoffrey E. Hinton. Used [jindongwang/Pytorch-CapsuleNet](https://github.com/jindongwang/Pytorch-CapsuleNet) and [laubonghaudoi/CapsNet_guide_PyTorch](https://github.com/laubonghaudoi/CapsNet_guide_PyTorch) to clarify some confusions, and borrowed some code.
 * [Using ResNet for MNIST in PyTorch 1.7](https://zablo.net/blog/post/pytorch-resnet-mnist-jupyter-notebook-2021/)
+
 
