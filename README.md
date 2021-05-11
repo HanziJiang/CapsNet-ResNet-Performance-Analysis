@@ -13,7 +13,7 @@ __2. Example of images rotated by 45 degrees in test set:__
   <img  src="https://github.com/HanziJiang/CapsNet-ResNet-Performance-Analysis/blob/main/images/test_with_rotate_example.jpeg">
 </p>
 
-### Getting Started
+## Getting Started
 Please follow the instruction below:
 
 __1. Run on Google Colab:__
