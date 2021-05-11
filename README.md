@@ -1,7 +1,7 @@
 # A Comparative Analysis of CapsNet and ResNet on Rotation Invariance
 #### Group members: Hanzi Jiang, Yuting Shao, Weimin Huang
-## General Ideas:
-We investigate the performance of CapsNet and Residual Neural Network (ResNet) in the presence of rotations on the [QuickDraw dataset](https://github.com/googlecreativelab/quickdraw-dataset). The models are trained and evaluated on a subset of the QuickDraw datacontaining 5 classes: triangle, square, mushroom, crown, and envelope.
+## General Idea:
+We investigate the performance of Capule Network (CapsNet) and Residual Neural Network (ResNet) in the presence of rotations on the [QuickDraw dataset](https://github.com/googlecreativelab/quickdraw-dataset). The models are trained and evaluated on a subset of the QuickDraw datacontaining 5 classes: triangle, square, mushroom, crown, and envelope.
 
 __1. Example of original images in train and validation set:__
 <p align="center">
